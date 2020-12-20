@@ -32,14 +32,10 @@ themeToggle.addEventListener('click', () => {
 });
 
 // Change the theme with the time
-
-// const today = new Date();
+const today = new Date();
 // const Hr = today.getHours();
-
-/*
-if (Hr >= 19 || Hr < 5) {
+// if (Hr >= 19 || Hr < 5) {
     enableDark();
-} else {
-    disableDark();
-}
-*/
+// } else {
+//     disableDark();
+// }
